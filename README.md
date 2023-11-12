@@ -1,1 +1,1 @@
-The questions solved during DSA prepration. All the programs are in Java
+The questions solved during DSA prepration in Java programming language
